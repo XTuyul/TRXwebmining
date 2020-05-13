@@ -1,0 +1,6 @@
+<?php
+
+#MASUKAN COOKIE PHPSESSID MILIK KALIAN!!!
+$PHPSESSID = "1ku1gk5vh342otlrngb1ei9q43";
+
+
