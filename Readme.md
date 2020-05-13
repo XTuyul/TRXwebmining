@@ -13,7 +13,7 @@ Website 👉 https://bit.ly/2zBtFed
 
   `git clone https://github.com/XTuyul/TRXwebmining`
 
-  `cd /sdcard/TRXwebmining`
+  `cd TRXwebmining`
 
   `php bot.php`
 
@@ -25,7 +25,7 @@ Website 👉 https://bit.ly/2zBtFed
 
 **EXECUTE**
 
-  `cd /sdcard/TRXwebmining`
+  `cd TRXwebmining`
 
   `nano cfg.php`
 
