@@ -5,27 +5,32 @@ Website 👉 https://bit.ly/2zBtFed
 
 **On TERMUX 👇**
 
-  pkg update -- pkg upgrade
+  `pkg update -- pkg upgrade`
 
-  pkg install nano -- pkg install php
+  `pkg install nano -- pkg install php`
 
-  termux-setup-storage
+  `termux-setup-storage`
 
-  git clone https://github.com/XTuyul/TRXwebmining
+  `git clone https://github.com/XTuyul/TRXwebmining`
 
-  cd /sdcard/TRXwebmining
+  `cd /sdcard/TRXwebmining`
 
-  php bot.php
+  `php bot.php`
 
-  logout
+  `logout`
 
-  ls
+  `ls`
+
+
 
 **EXECUTE**
 
   `cd /sdcard/TRXwebmining`
+
   `nano cfg.php`
+
   `php bot.php`
+
 
 
 **Credit to :** __SharkBloods__
