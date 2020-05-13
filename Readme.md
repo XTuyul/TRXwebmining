@@ -3,7 +3,7 @@
 Website 👉 https://bit.ly/2zBtFed
 
 
-**PERINTAH TERMUX 👇**
+**On TERMUX 👇**
 
   pkg update -- pkg upgrade
 
@@ -17,12 +17,16 @@ Website 👉 https://bit.ly/2zBtFed
 
   php bot.php
 
-**Video Tutorial**
-<iframe width="" height="150"
-src="https://youtu.be/qkJTWz9JOig" 
-frameborder="0" 
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
+  logout
+
+  ls
+
+**EXECUTE**
+
+  `cd /sdcard/TRXwebmining`
+  `nano cfg.php`
+  `php bot.php`
+
 
 **Credit to :** __SharkBloods__
 
